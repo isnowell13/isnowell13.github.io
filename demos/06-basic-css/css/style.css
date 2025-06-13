@@ -1,0 +1,28 @@
+* {
+     box-sizing: border-box;
+ }
+ 
+ body {
+     margin: 0px;
+     font-family: sans-serif;
+ }
+
+ #first-paragraph {
+  color:blue; 
+  background-color:red;
+  font-style:italic;
+  text-decoration: underline;
+ }
+
+ #second-paragraph {
+    color: #e864cc;
+    background-color:blue;
+    font-size: 22px;
+    text-align: center
+ }
+
+ #bold-paragraph {
+    font-weight: bold;
+    background-color:beige;
+    font-family: serif;
+ }
